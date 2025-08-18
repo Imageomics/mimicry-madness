@@ -1,4 +1,5 @@
-from . import embeddings
+from . import embeddings, viz
+import matplotlib.pyplot as plt
 
 if __name__ == "__main__":
     import argparse
@@ -9,4 +10,8 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    embeddings.generate_embeddings(args.img_src, args.emb_dest)
+    all_embeddings = embeddings.generate_embeddings(args.img_src, args.emb_dest)
+    fig, ax = viz.create_pca_image_plot(all_embeddings[1], all_embeddings[0])
+
+    fig.show()
+    plt.savefig("pca_plot.png")

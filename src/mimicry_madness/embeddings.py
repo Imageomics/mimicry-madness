@@ -31,6 +31,9 @@ def generate_embeddings(img_src: str, emb_dest: str) -> None:
         emb = emb / emb.norm(dim=-1, keepdim=True)
         emb_dest_path = os.path.join(emb_dest, os.path.basename(img_path) + ".pt")
 
-        all_embeddings.append((os.path.basename(img_path), emb))
+        all_embeddings.append(emb.squeeze(0))
 
-    torch.save(all_embeddings, os.path.join(emb_dest, "embeddings.pt"))
+    all_embeddings = torch.stack(all_embeddings)
+    torch.save((image_paths, all_embeddings), os.path.join(emb_dest, "embeddings.pt"))
+
+    return (image_paths, all_embeddings)
