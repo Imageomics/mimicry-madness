@@ -4,7 +4,7 @@ import torch
 from tqdm import tqdm
 from PIL import Image
 
-def generate_embeddings(img_src: str, emb_dest: str) -> None: 
+def generate_embeddings(img_src: str, emb_dest: str, batch_size: int) -> None: 
     # Note: This code is not specifically designed/optimized to be used with lots and lots of images.
     # In the future, it may be necessary to refactor this to make it work better at scale.
 
@@ -20,20 +20,21 @@ def generate_embeddings(img_src: str, emb_dest: str) -> None:
     if len(image_paths) == 0:
         raise ValueError("No images (.png, .jpg, .jpeg) found in the specified directory.")
     
-    all_embeddings = []
-    
+    all_embeddings = torch.tensor([])
+
+    data_loader = torch.utils.data.DataLoader(image_paths, batch_size=batch_size, shuffle=False)
+
     # Now, generate embeddings for images and save them to destination
-    for img_path in tqdm(image_paths, desc="Embedding images"):
-        img = preprocess_val(Image.open(img_path)).unsqueeze(0)
+    for img_batch in tqdm(data_loader, desc="Embedding images"):
+        imgs = [preprocess_val(Image.open(img_path)).unsqueeze(0) for img_path in img_batch]
+        imgs = torch.cat(imgs, dim=0)
         with torch.no_grad():
-            emb = model.encode_image(img)
+            embs = model.encode_image(imgs)
             
-        emb = emb / emb.norm(dim=-1, keepdim=True)
-        emb_dest_path = os.path.join(emb_dest, os.path.basename(img_path) + ".pt")
+        embs = embs / embs.norm(dim=1, keepdim=True)
 
-        all_embeddings.append(emb.squeeze(0))
+        all_embeddings = torch.cat((all_embeddings, embs), dim=0)
 
-    all_embeddings = torch.stack(all_embeddings)
     torch.save((image_paths, all_embeddings), os.path.join(emb_dest, "embeddings.pt"))
 
     return (image_paths, all_embeddings)

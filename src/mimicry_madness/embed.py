@@ -1,5 +1,4 @@
-from . import embeddings, viz
-import matplotlib.pyplot as plt
+from . import generate_embeddings
 
 if __name__ == "__main__":
     import argparse
@@ -7,11 +6,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate image embeddings using Bioclip-2 model.")
     parser.add_argument("--img_src", type=str, help="Source directory containing images.")
     parser.add_argument("--emb_dest", type=str, help="Destination directory to save embeddings.")
+    parser.add_argument("-b", "--batch_size", type=int, default=32, help="Batch size for processing images.")
 
     args = parser.parse_args()
 
-    all_embeddings = embeddings.generate_embeddings(args.img_src, args.emb_dest)
-    fig, ax = viz.create_pca_image_plot(all_embeddings[1], all_embeddings[0])
-
-    fig.show()
-    plt.savefig("pca_plot.png")
+    all_embeddings = generate_embeddings.generate_embeddings(args.img_src, args.emb_dest, args.batch_size)
