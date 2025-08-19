@@ -18,11 +18,9 @@ if len(embedding_options) == 0:
     raise ValueError("No embedding files found! Please generate embeddings before using this visualization file. See README.md for directions")
 
 app.layout = html.Div([
-    html.H4('Interactive PCA'),
     html.H2('Interactive PCA'),
     html.P("Select embedding data to load:"),
     dcc.Dropdown(
-        id="dropdown",
         id="data_source",
         options=embedding_options,
         value=embedding_options[0],
@@ -43,9 +41,6 @@ app.layout = html.Div([
 
 @app.callback(
     Output("graph", "figure"),
-    Input("dropdown", "value"))
-def display_embedding(embedding):
-
     Input("data_source", "value"),
     Input("visualization_type", "value"))
 def display_embedding(embedding, viz_type):
