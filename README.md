@@ -4,6 +4,12 @@ Project repo for mimicry exploration during FuncaPalooza 2025! We're mostly focu
 
 More coming soon!
 
+## Installation
+
+Before using this package, please install uv (directions for doing so can be found [here](https://docs.astral.sh/uv/getting-started/installation/)).
+
+All necessary packages should be automatically installed when `uv run` is used for the first time. 
+
 ## Using the package
 
 This package can be utilized entirely from the command line! To generate the embeddings for a set of images, simply run: 
