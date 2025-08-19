@@ -8,6 +8,10 @@ def generate_embeddings(img_src: str, emb_dest: str, batch_size: int) -> None:
     # Note: This code is not specifically designed/optimized to be used with lots and lots of images.
     # In the future, it may be necessary to refactor this to make it work better at scale.
 
+    # First, make folder for embeddings if doesnt exist
+    os.makedirs(os.path.dirname(emb_dest), exist_ok=True)
+
+
     model, preprocess_train, preprocess_val = open_clip.create_model_and_transforms('hf-hub:imageomics/bioclip-2')
     tokenizer = open_clip.get_tokenizer('hf-hub:imageomics/bioclip-2')
 
@@ -35,6 +39,6 @@ def generate_embeddings(img_src: str, emb_dest: str, batch_size: int) -> None:
 
         all_embeddings = torch.cat((all_embeddings, embs), dim=0)
 
-    torch.save((image_paths, all_embeddings), os.path.join(emb_dest, "embeddings.pt"))
+    torch.save((image_paths, all_embeddings), emb_dest)
 
     return (image_paths, all_embeddings)

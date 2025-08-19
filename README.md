@@ -18,7 +18,7 @@ This package can be utilized entirely from the command line! To generate the emb
 
 with the following parameters:
 - `--img_src`: folder to read images from (either .png, .jpg, or .jpeg format).
-- `--emb_dest`: folder to save embedding file to (will be saved to `embeddings.pt`).
+- `--emb_dest`: filepath to save embedding file to.
 - `-b` or `--batch_size`: batch size to read images in.
 
 To visualize the embeddings (in a very simple manner), use:
