@@ -209,5 +209,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-images/
-embeddings/
+data/images/
+data/embeddings/
+
+# Mac System
+.DS_Store
