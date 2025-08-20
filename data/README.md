@@ -40,7 +40,7 @@ Other column additions/modifications are:
 
 ## Moth-Wasp Mimics
 
-`mw-metadata.csv` and `mw-nobg-metadata.csv`: metadata associated to the moths, wasps, and flies imaged by Sol Carolina Parra Santos. 
+`mw-metadata.csv` and `mw-nobg-metadata.csv`: metadata associated to the moths, wasps, and flies imaged and collected in Panama by Sol Carolina Parra Santos.
 
 They are subdivided in two folders:
 1. `SP_raw/`: Original images, taken of pinned specimens with color standard and scalebar. Associated metadata file is `mw-metadata.csv`.
