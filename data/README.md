@@ -21,7 +21,7 @@ Images of specimens of coral snakes and their mimics from the FUNED natural hist
 - `mimicry_status`: String. Category of mimicry defined based on subjective evaluation of mimetic precision for average species phenotype (by Viol). Contains values `mimic`, `model`, and `bad mimic`.
 - `genus`: String. Genus to which the specimen belongs, classification provided by the collection.
 - `specific_epithet`: String. Species (specific epithet) to which the specimen belongs, classification provided by the collection.
-- `sci_name`: String. `<Genus> <species>`.
+- `sci_name`: String. `<Genus> <specific epithet>`.
 - `image_date`: String. Date image was taken (`MM/DD/YYYY`).
 - `filepath`: String. Relative path to the image from the data folder (`images/A-snake-photos/<filename>`).
 - `camera_filename`: String. Name of the photo file, default from camera.
