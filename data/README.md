@@ -13,7 +13,7 @@ More details about the data associated to each project component are provided be
 
 ### FUNED Mimic Data
 
-Images of all specimens in the FUNED natural history collection. These images were taken by Andressa Viol at the Fundação Ezequiel Dias. Each specimen image contains a 40% reflectance light UV standard and a color palette. The metadata file `metadata_FUNED_full.csv` contains the following columns:
+Images of specimens of coral snakes and their mimics from the FUNED natural history collection. These images were taken by Andressa Viol at the Fundação Ezequiel Dias. Each specimen image contains a 40% reflectance light UV standard and a color palette. The metadata file `metadata_FUNED_full.csv` contains the following columns:
 - `specimen_id`: Int. ID of specimen in the collection (ID provided by FUNED).
 - `filename`: String. Name of the photo file, default from camera.
 - `collection`: String. Name of natural history collection (all `FUNED`).
