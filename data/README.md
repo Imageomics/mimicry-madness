@@ -15,13 +15,17 @@ More details about the data associated to each project component are provided be
 
 Images of specimens of coral snakes and their mimics from the FUNED natural history collection. These images were taken by Andressa Viol at the Fundação Ezequiel Dias. Each specimen image contains a 40% reflectance light UV standard and a color palette. The metadata file `metadata_FUNED_full.csv` contains the following columns:
 - `specimen_id`: Int. ID of specimen in the collection (ID provided by FUNED).
-- `filename`: String. Name of the photo file, default from camera.
+- `filename`: String. Image filename `FUNED_<specimen_id>_<genus>_<species>_<camera_filename>.JPG`.
 - `collection`: String. Name of natural history collection (all `FUNED`).
 - `view`: String. Position of snake (`dorsal`, `ventral`, or `side`). "dorsal" indicates the image was taken of the snake's back, while "ventral" means the image was taken with the snake lying belly-up, and "side" is a lateral view including both the dorsal and ventral scales.
 - `mimicry_status`: String. Category of mimicry defined based on subjective evaluation of mimetic precision for average species phenotype (by Viol). Contains values `mimic`, `model`, and `bad mimic`.
 - `genus`: String. Genus to which the specimen belongs, classification provided by the collection.
 - `specific_epithet`: String. Species (specific epithet) to which the specimen belongs, classification provided by the collection.
+- `sci_name`: String. `<Genus> <species>`.
 - `image_date`: String. Date image was taken (`MM/DD/YYYY`).
+- `filepath`: String. Relative path to the image from the data folder (`images/A-snake-photos/<filename>`).
+- `camera_filename`: String. Name of the photo file, default from camera.
+- `md5`: MD5 hash of the image. Generated using [`sum-buddy`](https://github.com/Imageomics/sum-buddy).
 - `notes`: String. Relevant notes about photography or specimen (not all full). May also included subspecies information where available (`venustissimus` is the only subspecies listed).
 
 **License:** TBD
