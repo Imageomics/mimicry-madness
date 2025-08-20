@@ -12,7 +12,7 @@ from sklearn.manifold import TSNE
 
 app = Dash(__name__)
 
-embedding_options = glob('./embeddings/*.pt')
+embedding_options = glob('./data/embeddings/*.pt')
 csv_options = glob('./data/*.csv')
 
 
