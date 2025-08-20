@@ -1,0 +1,202 @@
+Photo.File,ID,View,mimicry_status,Family,Genus,Species,Country,Year,institution,reg_number,filepath,sci_name
+DSC_1415,RAB01140,Dorsal,mimic,Aniliidae,Anilius,scytale,Peru,2016,MUSM,36848,images/snake_images/DSC_1415_nobg.png,Anilius scytale
+DSC_1418,RAB01140,Ventral,mimic,Aniliidae,Anilius,scytale,Peru,2016,MUSM,36848,images/snake_images/DSC_1418_nobg.png,Anilius scytale
+DSC_2519,RAB02499,Dorsal,mimic,Aniliidae,Anilius,scytale,Peru,2017,,,images/snake_images/DSC_2519_nobg.png,Anilius scytale
+DSC_2522,RAB02499,Ventral,mimic,Aniliidae,Anilius,scytale,Peru,2017,,,images/snake_images/DSC_2522_nobg.png,Anilius scytale
+DSC_2052,RAB01919,Dorsal,neither,Boidae,Eunecetes,murinus,Peru,2017,MUSM,37122,images/snake_images/DSC_2052_nobg.png,Eunecetes murinus
+DSC_2055,RAB01919,Ventral,neither,Boidae,Eunecetes,murinus,Peru,2017,MUSM,37122,images/snake_images/DSC_2055_nobg.png,Eunecetes murinus
+DSC_2570,RAB02548,Dorsal,neither,Boidae,Epicrates,cenchria,Peru,2017,UMMZ,,images/snake_images/DSC_2570_nobg.png,Epicrates cenchria
+DSC_2573,RAB02548,Ventral,neither,Boidae,Epicrates,cenchria,Peru,2017,UMMZ,,images/snake_images/DSC_2573_nobg.png,Epicrates cenchria
+DSC_1459,RAB00379,Dorsal,neither,Boidae,Corallus,hortulanus,Peru,2016,UMMZ,245051,images/snake_images/DSC_1459_nobg.png,Corallus hortulanus
+DSC_1463,RAB00379,Ventral,neither,Boidae,Corallus,hortulanus,Peru,2016,UMMZ,245051,images/snake_images/DSC_1463_nobg.png,Corallus hortulanus
+DSC_1018,RAB00659,Dorsal,neither,Colubridae_Colubrinae,Chironius,monticola,Peru,2016,MUSM,36960,images/snake_images/DSC_1018_nobg.png,Chironius monticola
+DSC_1021,RAB00659,Ventral,neither,Colubridae_Colubrinae,Chironius,monticola,Peru,2016,MUSM,36960,images/snake_images/DSC_1021_nobg.png,Chironius monticola
+DSC_1085,RAB00932,Ventral,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2016,MUSM,37345,images/snake_images/DSC_1085_nobg.png,Leptophis ahaetulla
+DSC_1088,RAB00932,Dorsal,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2016,MUSM,37345,images/snake_images/DSC_1088_nobg.png,Leptophis ahaetulla
+DSC_1089,RAB00933,Dorsal,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2016,UMMZ,246823,images/snake_images/DSC_1089_nobg.png,Leptophis ahaetulla
+DSC_1092,RAB00933,Ventral,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2016,UMMZ,246823,images/snake_images/DSC_1092_nobg.png,Leptophis ahaetulla
+DSC_1621,RAB01349,Dorsal,mimic,Colubridae_Colubrinae,Chironius,scurrulus,Peru,2016,MUSM,36963,images/snake_images/DSC_1621_nobg.png,Chironius monticola
+DSC_1624,RAB01349,Ventral,mimic,Colubridae_Colubrinae,Chironius,scurrulus,Peru,2016,MUSM,36963,images/snake_images/DSC_1624_nobg.png,Chironius monticola
+DSC_1911,RAB01670,Dorsal,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2017,UMMZ,246824,images/snake_images/DSC_1911_nobg.png,Leptophis ahaetulla
+DSC_1914,RAB01670,Ventral,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2017,UMMZ,246824,images/snake_images/DSC_1914_nobg.png,Leptophis ahaetulla
+DSC_2148,RAB02051,Dorsal,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2017,MUSM,37344,images/snake_images/DSC_2148_nobg.png,Leptophis ahaetulla
+DSC_2151,RAB02051,Ventral,neither,Colubridae_Colubrinae,Leptophis,ahaetulla,Peru,2017,MUSM,37344,images/snake_images/DSC_2151_nobg.png,Leptophis ahaetulla
+DSC_0332,RAB00219,Ventral,neither,Colubridae_Colubrinae,Tantilla,melanocephala,Peru,2016,MUSM,36031,images/snake_images/DSC_0332_nobg.png,Tantilla melanocephala
+DSC_0339,RAB00219,Dorsal,neither,Colubridae_Colubrinae,Tantilla,melanocephala,Peru,2016,MUSM,36031,images/snake_images/DSC_0339_nobg.png,Tantilla melanocephala
+DSC_0425,RAB00272,Ventral,neither,Colubridae_Colubrinae,Drymobius,rhombifer,Peru,2016,UMMZ,245052,images/snake_images/DSC_0425_nobg.png,Drymobius rhombifer
+DSC_0431,RAB00272,Dorsal,neither,Colubridae_Colubrinae,Drymobius,rhombifer,Peru,2016,UMMZ,245052,images/snake_images/DSC_0431_nobg.png,Drymobius rhombifer
+DSC_0489,RAB00372,Ventral,neither,Colubridae_Colubrinae,Drymoluber,dichrous,Peru,2016,MUSM,36146,images/snake_images/DSC_0489_nobg.png,Drymoluber dichrous
+DSC_0494,RAB00372,Dorsal,neither,Colubridae_Colubrinae,Drymoluber,dichrous,Peru,2016,MUSM,36146,images/snake_images/DSC_0494_nobg.png,Drymoluber dichrous
+DSC_0527,RAB00381,Ventral,neither,Colubridae_Colubrinae,Chironius,fuscus,Peru,2016,UMMZ,245047,images/snake_images/DSC_0527_nobg.png,Chironius monticola
+DSC_0531,RAB00381,Dorsal,neither,Colubridae_Colubrinae,Chironius,fuscus,Peru,2016,UMMZ,245047,images/snake_images/DSC_0531_nobg.png,Chironius monticola
+DSC_0926,RAB00562,Dorsal,neither,Colubridae_Colubrinae,Pseustes,sulphureus,Peru,2016,MUSM,37565,images/snake_images/DSC_0926_nobg.png,Pseustes sulphureus
+DSC_0930,RAB00562,Ventral,neither,Colubridae_Colubrinae,Pseustes,sulphureus,Peru,2016,MUSM,37565,images/snake_images/DSC_0930_nobg.png,Pseustes sulphureus
+DSC_2114,RAB02001,Dorsal,neither,Colubridae_Colubrinae,Dendrophidion,dendrophis,Peru,2017,UMMZ,246790,images/snake_images/DSC_2114_nobg.png,Dendrophidion dendrophis
+DSC_2117,RAB02001,Ventral,neither,Colubridae_Colubrinae,Dendrophidion,dendrophis,Peru,2017,UMMZ,246790,images/snake_images/DSC_2117_nobg.png,Dendrophidion dendrophis
+DSC_0545,RAB00419,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,35703,images/snake_images/DSC_0545_nobg.png,Atractus flammigerus
+DSC_0550,RAB00419,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,35703,images/snake_images/DSC_0550_nobg.png,Atractus flammigerus
+DSC_0554,RAB00421,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,formosus,Peru,2016,MUSM,36152,images/snake_images/DSC_0554_nobg.png,Oxyrhopus formosus
+DSC_0604,RAB00471,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,UMMZ,245046,images/snake_images/DSC_0604_nobg.png,Atractus flammigerus
+DSC_0608,RAB00471,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,UMMZ,245046,images/snake_images/DSC_0608_nobg.png,Atractus flammigerus
+DSC_0931,RAB00567,Ventral,bad mimic,Colubridae_Dipsadinae,Clelia,clelia,Peru,2016,MUSM,awaiting #,images/snake_images/DSC_0931_nobg.png,Clelia clelia
+DSC_0935,RAB00567,Dorsal,bad mimic,Colubridae_Dipsadinae,Clelia,clelia,Peru,2016,MUSM,awaiting #,images/snake_images/DSC_0935_nobg.png,Clelia clelia
+DSC_0939,RAB00581,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,MUSM,37411,images/snake_images/DSC_0939_nobg.png,Oxyrhopus formosus
+DSC_0955,RAB00584,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,UMMZ,246827,images/snake_images/DSC_0955_nobg.png,Oxyrhopus formosus
+DSC_0986,RAB00607,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,UMMZ,246828,images/snake_images/DSC_0986_nobg.png,Oxyrhopus formosus
+DSC_1014,RAB00657,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,UMMZ,246829,images/snake_images/DSC_1014_nobg.png,Oxyrhopus formosus
+DSC_1023,RAB00663,Dorsal,bad mimic,Colubridae_Dipsadinae,Clelia,clelia,Peru,2016,MUSM,36964,images/snake_images/DSC_1023_nobg.png,Clelia clelia
+DSC_1024,RAB00663,Ventral,bad mimic,Colubridae_Dipsadinae,Clelia,clelia,Peru,2016,MUSM,36964,images/snake_images/DSC_1024_nobg.png,Clelia clelia
+DSC_1029,RAB00664,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2016,MUSM,37418,images/snake_images/DSC_1029_nobg.png,Oxyrhopus formosus
+DSC_1031,RAB00664,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2016,MUSM,37418,images/snake_images/DSC_1031_nobg.png,Oxyrhopus formosus
+DSC_1040,RAB00672,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2016,MUSM,37420,images/snake_images/DSC_1040_nobg.png,Oxyrhopus formosus
+DSC_1041,RAB00672,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2016,MUSM,37420,images/snake_images/DSC_1041_nobg.png,Oxyrhopus formosus
+DSC_1084,RAB00931,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,formosus,Peru,2016,UMMZ,246826,images/snake_images/DSC_1084_nobg.png,Oxyrhopus formosus
+DSC_1100,RAB00936,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,MUSM,37416,images/snake_images/DSC_1100_nobg.png,Oxyrhopus formosus
+DSC_1101,RAB00937,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,UMMZ,246781,images/snake_images/DSC_1101_nobg.png,Atractus flammigerus
+DSC_1104,RAB00937,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,UMMZ,246781,images/snake_images/DSC_1104_nobg.png,Atractus flammigerus
+DSC_1108,RAB00938,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,MUSM,37417,images/snake_images/DSC_1108_nobg.png,Oxyrhopus formosus
+DSC_1161,RAB00955,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,UMMZ,246830,images/snake_images/DSC_1161_nobg.png,Oxyrhopus formosus
+DSC_1213,RAB01049,Dorsal,bad mimic,Colubridae_Dipsadinae,Clelia,clelia,Peru,2016,UMMZ,awaiting export,images/snake_images/DSC_1213_nobg.png,Clelia clelia
+DSC_1216,RAB01049,Ventral,bad mimic,Colubridae_Dipsadinae,Clelia,clelia,Peru,2016,UMMZ,awaiting export,images/snake_images/DSC_1216_nobg.png,Clelia clelia
+DSC_1443,RAB01232,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,36893,images/snake_images/DSC_1443_nobg.png,Atractus flammigerus
+DSC_1446,RAB01232,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,36893,images/snake_images/DSC_1446_nobg.png,Atractus flammigerus
+DSC_1450,RAB01233,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,MUSM,37414,images/snake_images/DSC_1450_nobg.png,Oxyrhopus formosus
+DSC_1451,RAB01234,Dorsal,bad mimic,Colubridae_Dipsadinae,Siphlophis,compressus,Peru,2016,MUSM,37670,images/snake_images/DSC_1451_nobg.png,Siphlophis compressus
+DSC_1454,RAB01234,Ventral,bad mimic,Colubridae_Dipsadinae,Siphlophis,compressus,Peru,2016,MUSM,37670,images/snake_images/DSC_1454_nobg.png,Siphlophis compressus
+DSC_1472,RAB01274,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,36894,images/snake_images/DSC_1472_nobg.png,Atractus flammigerus
+DSC_1475,RAB01274,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,36894,images/snake_images/DSC_1475_nobg.png,Atractus flammigerus
+DSC_1521,RAB01318,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,UMMZ,246832,images/snake_images/DSC_1521_nobg.png,Oxyrhopus formosus
+DSC_1506,RAB01320,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,36895,images/snake_images/DSC_1506_nobg.png,Atractus flammigerus
+DSC_1509,RAB01320,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,MUSM,36895,images/snake_images/DSC_1509_nobg.png,Atractus flammigerus
+DSC_1517,RAB01321,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,melanogenys,Peru,2016,MUSM,37415,images/snake_images/DSC_1517_nobg.png,Oxyrhopus formosus
+DSC_1600,RAB01345,Dorsal,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2016,MUSM,37252,images/snake_images/DSC_1600_nobg.png,Imantodes lentiferus
+DSC_1603,RAB01345,Ventral,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2016,MUSM,37252,images/snake_images/DSC_1603_nobg.png,Imantodes lentiferus
+DSC_1702,RAB01392,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,UMMZ,246782,images/snake_images/DSC_1702_nobg.png,Atractus flammigerus
+DSC_1705,RAB01392,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2016,UMMZ,246782,images/snake_images/DSC_1705_nobg.png,Atractus flammigerus
+DSC_1749,RAB01419,Dorsal,bad mimic,Colubridae_Dipsadinae,Siphlophis,cervinus,Peru,2016,MUSM,37669,images/snake_images/DSC_1749_nobg.png,Siphlophis compressus
+DSC_1753,RAB01419,Ventral,bad mimic,Colubridae_Dipsadinae,Siphlophis,cervinus,Peru,2016,MUSM,37669,images/snake_images/DSC_1753_nobg.png,Siphlophis compressus
+DSC_1793,RAB01516,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,UMMZ,246836,images/snake_images/DSC_1793_nobg.png,Oxyrhopus formosus
+DSC_1796,RAB01516,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,UMMZ,246836,images/snake_images/DSC_1796_nobg.png,Oxyrhopus formosus
+DSC_1815,RAB01521,Dorsal,bad mimic,Colubridae_Dipsadinae,Siphlophis,compressus,Peru,2017,UMMZ,246842,images/snake_images/DSC_1815_nobg.png,Siphlophis compressus
+DSC_1818,RAB01521,Ventral,bad mimic,Colubridae_Dipsadinae,Siphlophis,compressus,Peru,2017,UMMZ,246842,images/snake_images/DSC_1818_nobg.png,Siphlophis compressus
+DSC_1897,RAB01667,Dorsal,mimic,Colubridae_Dipsadinae,Hydrops,martii,Peru,2017,MUSM,37161,images/snake_images/DSC_1897_nobg.png,Hydrops martii
+DSC_1900,RAB01667,Ventral,mimic,Colubridae_Dipsadinae,Hydrops,martii,Peru,2017,MUSM,37161,images/snake_images/DSC_1900_nobg.png,Hydrops martii
+DSC_1896,RAB01668,Ventral,neither,Colubridae_Dipsadinae,Pseudoeryx,plicatilis,Peru,2017,MUSM,37556,images/snake_images/DSC_1896_nobg.png,Pseudoeryx plicatilis
+DSC_1856,RAB01675,Dorsal,neither,Colubridae_Dipsadinae,Erythrolamprus,pygmaeus,Peru,2017,MUSM,37121,images/snake_images/DSC_1856_nobg.png,Erythrolamprus pygmaeus
+DSC_1859,RAB01675,Ventral,neither,Colubridae_Dipsadinae,Erythrolamprus,pygmaeus,Peru,2017,MUSM,37121,images/snake_images/DSC_1859_nobg.png,Erythrolamprus pygmaeus
+DSC_1949,RAB01814,Ventral,neither,Colubridae_Dipsadinae,Pseudoeryx,plicatilis,Peru,2017,UMMZ,246840,images/snake_images/DSC_1949_nobg.png,Pseudoeryx plicatilis
+DSC_2037,RAB01853,Dorsal,bad mimic,Colubridae_Dipsadinae,Pseudoboa,coronata,Peru,2017,MUSM,37555,images/snake_images/DSC_2037_nobg.png,Pseudoboa coronata
+DSC_2040,RAB01853,Ventral,bad mimic,Colubridae_Dipsadinae,Pseudoboa,coronata,Peru,2017,MUSM,37555,images/snake_images/DSC_2040_nobg.png,Pseudoboa coronata
+DSC_2043,RAB01932,Dorsal,neither,Colubridae_Dipsadinae,Helicops,polylepis,Peru,2017,UMMZ,246809,images/snake_images/DSC_2043_nobg.png,Helicops polylepis
+DSC_2046,RAB01932,Ventral,neither,Colubridae_Dipsadinae,Helicops,polylepis,Peru,2017,UMMZ,246809,images/snake_images/DSC_2046_nobg.png,Helicops polylepis
+DSC_2144,RAB01992,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,UMMZ,246837,images/snake_images/DSC_2144_nobg.png,Oxyrhopus formosus
+DSC_2147,RAB01992,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,UMMZ,246837,images/snake_images/DSC_2147_nobg.png,Oxyrhopus formosus
+DSC_2135,RAB02009,Dorsal,neither,Colubridae_Dipsadinae,Atractus,major,Peru,2017,MUSM,36896,images/snake_images/DSC_2135_nobg.png,Atractus flammigerus
+DSC_2138,RAB02009,Ventral,neither,Colubridae_Dipsadinae,Atractus,major,Peru,2017,MUSM,36896,images/snake_images/DSC_2138_nobg.png,Atractus flammigerus
+DSC_2152,RAB02034,Dorsal,mimic,Colubridae_Dipsadinae,Atractus,latifrons,Peru,2017,MUSM,37351,images/snake_images/DSC_2152_nobg.png,Atractus flammigerus
+DSC_2155,RAB02034,Ventral,mimic,Colubridae_Dipsadinae,Atractus,latifrons,Peru,2017,MUSM,37351,images/snake_images/DSC_2155_nobg.png,Atractus flammigerus
+DSC_2208,RAB02172,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,vanidicus,Peru,2017,UMMZ,246838,images/snake_images/DSC_2208_nobg.png,Oxyrhopus formosus
+DSC_2211,RAB02172,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,vanidicus,Peru,2017,UMMZ,246838,images/snake_images/DSC_2211_nobg.png,Oxyrhopus formosus
+DSC_2340,RAB02269,Dorsal,bad mimic,Colubridae_Dipsadinae,Siphlophis,cervinus,Peru,2017,UMMZ,246841,images/snake_images/DSC_2340_nobg.png,Siphlophis compressus
+DSC_2343,RAB02269,Ventral,bad mimic,Colubridae_Dipsadinae,Siphlophis,cervinus,Peru,2017,UMMZ,246841,images/snake_images/DSC_2343_nobg.png,Siphlophis compressus
+DSC_2358,RAB02270,Dorsal,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,UMMZ,246820,images/snake_images/DSC_2358_nobg.png,Imantodes lentiferus
+DSC_2361,RAB02270,Ventral,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,UMMZ,246820,images/snake_images/DSC_2361_nobg.png,Imantodes lentiferus
+DSC_2344,RAB02271,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,37729,images/snake_images/DSC_2344_nobg.png,Xenodon rabdocephalus
+DSC_2345,RAB02271,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,37729,images/snake_images/DSC_2345_nobg.png,Xenodon rabdocephalus
+DSC_2346,RAB02271,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,37729,images/snake_images/DSC_2346_nobg.png,Xenodon rabdocephalus
+DSC_2349,RAB02271,Ventral,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,37729,images/snake_images/DSC_2349_nobg.png,Xenodon rabdocephalus
+DSC_2387,RAB02383,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,vanidicus,Peru,2017,MUSM,37421,images/snake_images/DSC_2387_nobg.png,Oxyrhopus formosus
+DSC_2390,RAB02383,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,vanidicus,Peru,2017,MUSM,37421,images/snake_images/DSC_2390_nobg.png,Oxyrhopus formosus
+DSC_2482,RAB02433,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,MUSM,39080,images/snake_images/DSC_2482_nobg.png,Oxyrhopus formosus
+DSC_2483,RAB02433,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,MUSM,39080,images/snake_images/DSC_2483_nobg.png,Oxyrhopus formosus
+DSC_2664,RAB02664,Dorsal,mimic,Colubridae_Dipsadinae,Hydrops,triangularis,Peru,2017,MUSM,38992,images/snake_images/DSC_2664_nobg.png,Hydrops martii
+DSC_2667,RAB02664,Ventral,mimic,Colubridae_Dipsadinae,Hydrops,triangularis,Peru,2017,MUSM,38992,images/snake_images/DSC_2667_nobg.png,Hydrops martii
+DSC_2672,RAB02666,Dorsal,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2017,,,images/snake_images/DSC_2672_nobg.png,Atractus flammigerus
+DSC_2675,RAB02666,Ventral,neither,Colubridae_Dipsadinae,Atractus,flammigerus,Peru,2017,,,images/snake_images/DSC_2675_nobg.png,Atractus flammigerus
+DSC_2676,RAB02667,Dorsal,bad mimic,Colubridae_Dipsadinae,Siphlophis,compressus,Peru,2017,MUSM,39142,images/snake_images/DSC_2676_nobg.png,Siphlophis compressus
+DSC_2679,RAB02667,Ventral,bad mimic,Colubridae_Dipsadinae,Siphlophis,compressus,Peru,2017,MUSM,39142,images/snake_images/DSC_2679_nobg.png,Siphlophis compressus
+DSC_2712,RAB02683,Dorsal,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,MUSM,39019,images/snake_images/DSC_2712_nobg.png,Imantodes lentiferus
+DSC_2714,RAB02683,Ventral,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,MUSM,39019,images/snake_images/DSC_2714_nobg.png,Imantodes lentiferus
+DSC_2733,RAB02688,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,39157,images/snake_images/DSC_2733_nobg.png,Xenodon rabdocephalus
+DSC_2736,RAB02688,Ventral,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,39157,images/snake_images/DSC_2736_nobg.png,Xenodon rabdocephalus
+DSC_2793,RAB02713,Ventral,bad mimic,Colubridae_Dipsadinae,Siphlophis,cervinus,Peru,2017,MUSM,39141,images/snake_images/DSC_2793_nobg.png,Siphlophis compressus
+DSC_2821,RAB02737,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,39158,images/snake_images/DSC_2821_nobg.png,Xenodon rabdocephalus
+DSC_2824,RAB02737,Ventral,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,MUSM,39158,images/snake_images/DSC_2824_nobg.png,Xenodon rabdocephalus
+DSC_2891,RAB02868,Dorsal,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,MUSM,39081,images/snake_images/DSC_2891_nobg.png,Oxyrhopus formosus
+DSC_2892,RAB02868,Ventral,mimic,Colubridae_Dipsadinae,Oxyrhopus,petolarius,Peru,2017,MUSM,39081,images/snake_images/DSC_2892_nobg.png,Oxyrhopus formosus
+DSC_2903,RAB02871,Dorsal,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,,,images/snake_images/DSC_2903_nobg.png,Imantodes lentiferus
+DSC_2906,RAB02871,Ventral,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,,,images/snake_images/DSC_2906_nobg.png,Imantodes lentiferus
+DSC_2927,RAB02900,Dorsal,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,,,images/snake_images/DSC_2927_nobg.png,Imantodes lentiferus
+DSC_2930,RAB02900,Ventral,neither,Colubridae_Dipsadinae,Imantodes,lentiferus,Peru,2017,,,images/snake_images/DSC_2930_nobg.png,Imantodes lentiferus
+DSC_2951,RAB02920,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,,,images/snake_images/DSC_2951_nobg.png,Xenodon rabdocephalus
+DSC_2954,RAB02920,Ventral,neither,Colubridae_Dipsadinae,Xenodon,rabdocephalus,Peru,2017,,,images/snake_images/DSC_2954_nobg.png,Xenodon rabdocephalus
+DSC_0213,RAB00141,Ventral,mimic,Colubridae_Dipsadinae,Atractus,elaps,Peru,2016,MUSM,36139,images/snake_images/DSC_0213_nobg.png,Atractus flammigerus
+DSC_0219,RAB00141,Dorsal,mimic,Colubridae_Dipsadinae,Atractus,elaps,Peru,2016,MUSM,36139,images/snake_images/DSC_0219_nobg.png,Atractus flammigerus
+DSC_0229,RAB00143,Ventral,mimic,Colubridae_Dipsadinae,Helicops,angulatus,Peru,2016,UMMZ,245053,images/snake_images/DSC_0229_nobg.png,Helicops polylepis
+DSC_0233,RAB00143,Dorsal,mimic,Colubridae_Dipsadinae,Helicops,angulatus,Peru,2016,UMMZ,245053,images/snake_images/DSC_0233_nobg.png,Helicops polylepis
+DSC_0340,RAB00220,Ventral,neither,Colubridae_Dipsadinae,Taeniophallus,occipitalis,Peru,2016,MUSM,36030,images/snake_images/DSC_0340_nobg.png,Taeniophallus occipitalis
+DSC_0346,RAB00220,Dorsal,neither,Colubridae_Dipsadinae,Taeniophallus,occipitalis,Peru,2016,MUSM,36030,images/snake_images/DSC_0346_nobg.png,Taeniophallus occipitalis
+DSC_0456,RAB00319,Ventral,bad mimic,Colubridae_Dipsadinae,Xenopholis,scalaris,Peru,2016,UMMZ,245078,images/snake_images/DSC_0456_nobg.png,Xenopholis scalaris
+DSC_0459,RAB00319,Dorsal,bad mimic,Colubridae_Dipsadinae,Xenopholis,scalaris,Peru,2016,UMMZ,245078,images/snake_images/DSC_0459_nobg.png,Xenopholis scalaris
+DSC_0512,RAB00379,Ventral,bad mimic,Colubridae_Dipsadinae,Drepanoides,anomalus,Peru,2016,UMMZ,245051,images/snake_images/DSC_0512_nobg.png,Drepanoides anomalus
+DSC_0517,RAB00379,Dorsal,bad mimic,Colubridae_Dipsadinae,Drepanoides,anomalus,Peru,2016,UMMZ,245051,images/snake_images/DSC_0517_nobg.png,Drepanoides anomalus
+DSC_0519,RAB00380,Ventral,neither,Colubridae_Dipsadinae,Dipsas,catesbyi,Peru,2016,UMMZ,245050,images/snake_images/DSC_0519_nobg.png,Dipsas catesbyi
+DSC_0525,RAB00380,Dorsal,neither,Colubridae_Dipsadinae,Dipsas,catesbyi,Peru,2016,UMMZ,245050,images/snake_images/DSC_0525_nobg.png,Dipsas catesbyi
+DSC_0609,RAB00472,Dorsal,neither,Colubridae_Dipsadinae,Liophis,reginae,Peru,2016,UMMZ,245062,images/snake_images/DSC_0609_nobg.png,Liophis reginae
+DSC_0614,RAB00472,Ventral,neither,Colubridae_Dipsadinae,Liophis,reginae,Peru,2016,UMMZ,245062,images/snake_images/DSC_0614_nobg.png,Liophis reginae
+DSC_0622,RAB00497,Dorsal,neither,Colubridae_Dipsadinae,Leptodeira,annulata,Peru,2016,UMMZ,245060,images/snake_images/DSC_0622_nobg.png,Leptodeira annulata
+DSC_0625,RAB00497,Ventral,neither,Colubridae_Dipsadinae,Leptodeira,annulata,Peru,2016,UMMZ,245060,images/snake_images/DSC_0625_nobg.png,Leptodeira annulata
+DSC_0981,RAB00608,Dorsal,neither,Colubridae_Dipsadinae,Xenodon,severus,Peru,2016,MUSM,37730,images/snake_images/DSC_0981_nobg.png,Xenodon rabdocephalus
+DSC_0982,RAB00608,Ventral,neither,Colubridae_Dipsadinae,Xenodon,severus,Peru,2016,MUSM,37730,images/snake_images/DSC_0982_nobg.png,Xenodon rabdocephalus
+DSC_1787,RAB01503,Dorsal,neither,Colubridae_Dipsadinae,Dipsas,indica,Peru,2017,UMMZ,246794,images/snake_images/DSC_1787_nobg.png,Dipsas catesbyi
+DSC_1791,RAB01503,Ventral,neither,Colubridae_Dipsadinae,Dipsas,indica,Peru,2017,UMMZ,246794,images/snake_images/DSC_1791_nobg.png,Dipsas catesbyi
+DSC_1901,RAB01671,Dorsal,neither,Colubridae_Dipsadinae,Thamnodynastes,pallidus,Peru,2017,MUSM,37712,images/snake_images/DSC_1901_nobg.png,Thamnodynastes pallidus
+DSC_1904,RAB01671,Ventral,neither,Colubridae_Dipsadinae,Thamnodynastes,pallidus,Peru,2017,MUSM,37712,images/snake_images/DSC_1904_nobg.png,Thamnodynastes pallidus
+DSC_1983,RAB01812,Dorsal,neither,Colubridae_Dipsadinae,Helicops,leopardinus,Peru,2017,UMMZ,246808,images/snake_images/DSC_1983_nobg.png,Helicops polylepis
+DSC_1986,RAB01812,Ventral,neither,Colubridae_Dipsadinae,Helicops,leopardinus,Peru,2017,UMMZ,246808,images/snake_images/DSC_1986_nobg.png,Helicops polylepis
+DSC_2001,RAB01913,Dorsal,neither,Colubridae_Dipsadinae,Imantodes,cenchoa,Peru,2017,MUSM,37243,images/snake_images/DSC_2001_nobg.png,Imantodes lentiferus
+DSC_2004,RAB01913,Ventral,neither,Colubridae_Dipsadinae,Imantodes,cenchoa,Peru,2017,MUSM,37243,images/snake_images/DSC_2004_nobg.png,Imantodes lentiferus
+DSC_2027,RAB01912,Dorsal,neither,Colubridae_Dipsadinae,Taeniophallus,brevirostris,Peru,2017,MUSM,37707,images/snake_images/DSC_2027_nobg.png,Taeniophallus occipitalis
+DSC_2030,RAB01912,Ventral,neither,Colubridae_Dipsadinae,Taeniophallus,brevirostris,Peru,2017,MUSM,37707,images/snake_images/DSC_2030_nobg.png,Taeniophallus occipitalis
+DSC_2109,RAB02031,Dorsal,neither,Colubridae_Dipsadinae,Atractus,snethlageae,Peru,2017,UMMZ,246783,images/snake_images/DSC_2109_nobg.png,Atractus flammigerus
+DSC_2113,RAB02031,Ventral,neither,Colubridae_Dipsadinae,Atractus,snethlageae,Peru,2017,UMMZ,246783,images/snake_images/DSC_2113_nobg.png,Atractus flammigerus
+DSC_2413,RAB02346,Dorsal,neither,Colubridae_Dipsadinae,Xenoxybelis,argenteus,Peru,2017,MUSM,37736,images/snake_images/DSC_2413_nobg.png,Xenoxybelis argenteus
+DSC_2435,RAB02346,Ventral,neither,Colubridae_Dipsadinae,Xenoxybelis,argenteus,Peru,2017,MUSM,37736,images/snake_images/DSC_2435_nobg.png,Xenoxybelis argenteus
+DSC_0402,RAB00249,Dorsal,model,Elapidae,Micrurus,lemniscatus,Peru,2016,UMMZ,245082,images/snake_images/DSC_0402_nobg.png,Micrurus lemniscatus
+DSC_0486,RAB00366,Dorsal,model,Elapidae,Micrurus,lemniscatus,Peru,2016,MUSM,35905,images/snake_images/DSC_0486_nobg.png,Micrurus lemniscatus
+DSC_0502,RAB00377,Dorsal,model,Elapidae,Micrurus,lemniscatus,Peru,2016,UMMZ,245083,images/snake_images/DSC_0502_nobg.png,Micrurus lemniscatus
+DSC_0504,RAB00378,Dorsal,model,Elapidae,Micrurus,lemniscatus,Peru,2016,MUSM,35906,images/snake_images/DSC_0504_nobg.png,Micrurus lemniscatus
+DSC_1035,RAB00665,Ventral,model,Elapidae,Micrurus,obscurus,Peru,2016,UMMZ,246859,images/snake_images/DSC_1035_nobg.png,Micrurus lemniscatus
+DSC_1036,RAB00665,Dorsal,model,Elapidae,Micrurus,obscurus,Peru,2016,UMMZ,246859,images/snake_images/DSC_1036_nobg.png,Micrurus lemniscatus
+DSC_1234,RAB01054,Dorsal,model,Elapidae,Micrurus,obscurus,Peru,2016,UMMZ,246860,images/snake_images/DSC_1234_nobg.png,Micrurus lemniscatus
+DSC_1237,RAB01054,Ventral,model,Elapidae,Micrurus,obscurus,Peru,2016,UMMZ,246860,images/snake_images/DSC_1237_nobg.png,Micrurus lemniscatus
+DSC_1254,RAB01099,Dorsal,model,Elapidae,Micrurus,surinamensis,Peru,2016,UMMZ,246861,images/snake_images/DSC_1254_nobg.png,Micrurus lemniscatus
+DSC_1257,RAB01099,Ventral,model,Elapidae,Micrurus,surinamensis,Peru,2016,UMMZ,246861,images/snake_images/DSC_1257_nobg.png,Micrurus lemniscatus
+DSC_1258,RAB01100,Dorsal,model,Elapidae,Micrurus,surinamensis,Peru,2016,MUSM,37352,images/snake_images/DSC_1258_nobg.png,Micrurus lemniscatus
+DSC_1261,RAB01100,Ventral,model,Elapidae,Micrurus,surinamensis,Peru,2016,MUSM,37352,images/snake_images/DSC_1261_nobg.png,Micrurus lemniscatus
+DSC_1262,RAB01101,Dorsal,model,Elapidae,Micrurus,surinamensis,Peru,2016,MUSM,37353,images/snake_images/DSC_1262_nobg.png,Micrurus lemniscatus
+DSC_1266,RAB01101,Ventral,model,Elapidae,Micrurus,surinamensis,Peru,2016,MUSM,37353,images/snake_images/DSC_1266_nobg.png,Micrurus lemniscatus
+DSC_1304,RAB01144,Dorsal,model,Elapidae,Micrurus,annellatus,Peru,2016,UMMZ,246856,images/snake_images/DSC_1304_nobg.png,Micrurus lemniscatus
+DSC_1307,RAB01144,Ventral,model,Elapidae,Micrurus,annellatus,Peru,2016,UMMZ,246856,images/snake_images/DSC_1307_nobg.png,Micrurus lemniscatus
+DSC_1930,RAB01810,Dorsal,model,Elapidae,Micrurus,hemprichii,Peru,2017,UMMZ,246857,images/snake_images/DSC_1930_nobg.png,Micrurus lemniscatus
+DSC_1933,RAB01810,Ventral,model,Elapidae,Micrurus,hemprichii,Peru,2017,UMMZ,246857,images/snake_images/DSC_1933_nobg.png,Micrurus lemniscatus
+DSC_2156,RAB02035,Dorsal,model,Elapidae,Micrurus,hemprichii,Peru,2017,MUSM,37347,images/snake_images/DSC_2156_nobg.png,Micrurus lemniscatus
+DSC_2159,RAB02035,Ventral,model,Elapidae,Micrurus,hemprichii,Peru,2017,MUSM,37347,images/snake_images/DSC_2159_nobg.png,Micrurus lemniscatus
+DSC_2761,RAB02706,Dorsal,model,Elapidae,Micrurus,lemniscatus,Peru,2017,MUSM,39057,images/snake_images/DSC_2761_nobg.png,Micrurus lemniscatus
+DSC_2880,RAB02815,Dorsal,model,Elapidae,Micrurus,annellatus,Peru,2017,MUSM,39056,images/snake_images/DSC_2880_nobg.png,Micrurus lemniscatus
+DSC_2881,RAB02815,Ventral,model,Elapidae,Micrurus,annellatus,Peru,2017,MUSM,39056,images/snake_images/DSC_2881_nobg.png,Micrurus lemniscatus
+DSC_2935,RAB02915,Dorsal,model,Elapidae,Micrurus,lemniscatus,Peru,2017,UMMZ,awaiting export,images/snake_images/DSC_2935_nobg.png,Micrurus lemniscatus
+DSC_2825,RAB02738,Dorsal,neither,Leptotyphlopidae,Leptotyphlops,diaplocius,Peru,2017,MUSM,39046,images/snake_images/DSC_2825_nobg.png,Leptotyphlops diaplocius
+DSC_2826,RAB02738,Ventral,neither,Leptotyphlopidae,Leptotyphlops,diaplocius,Peru,2017,MUSM,39046,images/snake_images/DSC_2826_nobg.png,Leptotyphlops diaplocius
+DSC_2834,RAB02794,Dorsal,neither,Leptotyphlopidae,Leptotyphlops,diaplocius,Peru,2017,MUSM,39047,images/snake_images/DSC_2834_nobg.png,Leptotyphlops diaplocius
+DSC_2836,RAB02794,Ventral,neither,Leptotyphlopidae,Leptotyphlops,diaplocius,Peru,2017,MUSM,39047,images/snake_images/DSC_2836_nobg.png,Leptotyphlops diaplocius
+DSC_0302,RAB00216,Ventral,neither,Typhlopidae,Typhlops,reticulatus,Peru,2016,MUSM,36160,images/snake_images/DSC_0302_nobg.png,Typhlops reticulatus
+DSC_0308,RAB00216,Dorsal,neither,Typhlopidae,Typhlops,reticulatus,Peru,2016,MUSM,36160,images/snake_images/DSC_0308_nobg.png,Typhlops reticulatus
+DSC_1481,RAB01278,Dorsal,neither,Viperidae,Bothrops,brazili,Peru,2016,MUSM,36922,images/snake_images/DSC_1481_nobg.png,Bothrops brazili
+DSC_1484,RAB01278,Ventral,neither,Viperidae,Bothrops,brazili,Peru,2016,MUSM,36922,images/snake_images/DSC_1484_nobg.png,Bothrops brazili
+DSC_1502,RAB01286,Dorsal,neither,Viperidae,Bothriopsis,bilineata,Peru,2016,MUSM,36919,images/snake_images/DSC_1502_nobg.png,Bothriopsis bilineata
+DSC_1505,RAB01286,Ventral,neither,Viperidae,Bothriopsis,bilineata,Peru,2016,MUSM,36919,images/snake_images/DSC_1505_nobg.png,Bothriopsis bilineata
+DSC_1693,RAB01382,Dorsal,neither,Viperidae,Bothriopsis,bilineata,Peru,2016,UMMZ,246865,images/snake_images/DSC_1693_nobg.png,Bothriopsis bilineata
+DSC_1696,RAB01382,Ventral,neither,Viperidae,Bothriopsis,bilineata,Peru,2016,UMMZ,246865,images/snake_images/DSC_1696_nobg.png,Bothriopsis bilineata
+DSC_0464,RAB00321,Ventral,neither,Viperidae,Lachesis,muta,Peru,2016,MUSM,36149,images/snake_images/DSC_0464_nobg.png,Lachesis muta
+DSC_0469,RAB00321,Dorsal,neither,Viperidae,Lachesis,muta,Peru,2016,MUSM,36149,images/snake_images/DSC_0469_nobg.png,Lachesis muta
