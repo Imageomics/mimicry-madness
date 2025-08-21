@@ -5,7 +5,9 @@ from sklearn.preprocessing import StandardScaler
 from PIL import Image
 from tqdm import tqdm
 
-def create_pca_image_plot(img_features, image_paths, pca_x=0, pca_y=1, plt_img_size=(256, 256), zoom=0.1):
+def create_pca_image_plot(img_features, image_paths, pca_x=0, pca_y=1, plt_img_size=None, zoom=0.1, maintain_aspect_ratio=False):
+    if plt_img_size is None:
+        plt_img_size = [256, 256]
 
     normalized_features = StandardScaler().fit_transform(img_features)
     pca = PCA()
@@ -20,6 +22,12 @@ def create_pca_image_plot(img_features, image_paths, pca_x=0, pca_y=1, plt_img_s
 
     for i, path in tqdm(enumerate(image_paths), "Plotting PCA images"):
         image = Image.open(path)
+        if maintain_aspect_ratio:
+            w, h = image.size
+            new_w = plt_img_size[0]
+            new_h = int(h * (new_w / w))
+            plt_img_size[1] = new_h
+
         imagebox = OffsetImage(image.resize(plt_img_size), zoom=zoom)
         ab = AnnotationBbox(imagebox, (pca_values[i, pca_x], pca_values[i, pca_y]),
                             frameon=False, pad=0.5)
