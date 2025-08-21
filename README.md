@@ -33,6 +33,6 @@ with the following parameters:
 
 You can visualize the embeddings interactively by running the following command from the base folder of the repository:
 
-`uv run python visualization/pca_dashboard.py`
+`uv run python visualization/viz_dashboard.py`
 
 Note that there must be an `embeddings/` directory within your local copy of the `data/` directory. Embeddings can be generated using the instructions above ([Using the package](#using-the-package)). You can then select the embeddings file you want to use (must be stored in the `embeddings` folder), and the PCA visualization will appear.
