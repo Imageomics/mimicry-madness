@@ -1,6 +1,6 @@
 # Mimicry Madness
 
-Project repo for mimicry exploration during FuncaPalooza 2025! We're mostly focused on snakes and moths & wasps.
+Project repo for mimicry exploration during [FuncaPalooza 2025](https://github.com/Imageomics/FuncaPalooza-2025/wiki)! We're mostly focused on snakes and moths & wasps.
 
 More coming soon!
 
