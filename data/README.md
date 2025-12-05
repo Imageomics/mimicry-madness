@@ -61,6 +61,18 @@ An initial metadata file was generated using [sum-buddy](https://github.com/Imag
 
 **License:**
 
+This sample dataset is [published on Hugging Face](https://huggingface.co/datasets/Sol-Carolina/Wasp_moth_mimicry) and dedicated to the public domain. Please see the dataset card for more information, and cite it as:
+
+```bibtext
+@misc{Parra-Santos2025wasp_mimicry,
+  author       = {Sol Carolina Parra Santos},
+  title        = {Wasp-Moth Mimicry},
+  year         = {2025},
+  publisher    = {Hugging Face},
+  url          = {https://huggingface.co/datasets/Sol-Carolina/Wasp_moth_mimicry}
+}
+```
+
 ## References
 
 [^1]: University of Michigan, D. O. H., Davis Rabosky, A. R., Larson, J. G., Moore, T. Y., Curlis, J. D. (2021). _Neotropical snake photographs_ [Data set], University of Michigan - Deep Blue Data. https://doi.org/10.7302/qta3-xs67
