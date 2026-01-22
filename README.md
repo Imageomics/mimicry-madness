@@ -2,7 +2,7 @@
 
 Project repo for mimicry exploration during [FuncaPalooza 2025](https://github.com/Imageomics/FuncaPalooza-2025/wiki)! We're mostly focused on snakes and moths & wasps.
 
-More coming soon!
+All data used for this project is described in the [`data/`](data) directory `README`, alongside the metadata files. Embeddings are not provided due to space constraints, but can be generated from the data by following the [instructions provided below](#using-the-package).
 
 ## Installation
 
