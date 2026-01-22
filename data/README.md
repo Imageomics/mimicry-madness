@@ -1,6 +1,6 @@
 # Mimicry Data
 
-This repository explores two different mimicry datasets:
+This repository explores two different mimicry groups:
 
 1. [Coral Snake Mimicry Complex](#coral-snake-mimicry-complex)
 2. [Moth-Wasp Mimics](#moth-wasp-mimics)
