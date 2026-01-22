@@ -1,6 +1,6 @@
 # Mimicry Data
 
-This repository explores two different mimicry datasets:
+This repository explores two different mimicry groups:
 
 1. [Coral Snake Mimicry Complex](#coral-snake-mimicry-complex)
 2. [Moth-Wasp Mimics](#moth-wasp-mimics)
@@ -28,7 +28,19 @@ Images of specimens of coral snakes and their mimics from the FUNED natural hist
 - `md5`: MD5 hash of the image. Generated using [`sum-buddy`](https://github.com/Imageomics/sum-buddy).
 - `notes`: String. Relevant notes about photography or specimen (not all full). May also included subspecies information where available (`venustissimus` is the only subspecies listed).
 
-**License:** TBD
+**License:** 
+
+This sample dataset is [published on Hugging Face](https://huggingface.co/datasets/philodryas/Coral_snake_mimicry_FUNED_photos) and dedicated to the public domain. Please see the dataset card for more information, and cite it as:
+
+```bibtext
+@misc{Viol2025coral_snake_mimicry,
+  author       = {Andressa Viol},
+  title        = {Coral Snake Mimicry specimens from FUNED},
+  year         = {2025},
+  publisher    = {Hugging Face},
+  url          = {https://huggingface.co/datasets/philodryas/Coral_snake_mimicry_FUNED_photos}
+}
+```
 
 ### Snake Mimic Toy Data
 
@@ -60,6 +72,18 @@ An initial metadata file was generated using [sum-buddy](https://github.com/Imag
 - `segmented`: Boolean. `True` means these are the segmented images.
 
 **License:**
+
+This sample dataset is [published on Hugging Face](https://huggingface.co/datasets/Sol-Carolina/Wasp_moth_mimicry) and dedicated to the public domain. Please see the dataset card for more information, and cite it as:
+
+```bibtext
+@misc{Parra-Santos2025wasp_mimicry,
+  author       = {Sol Carolina Parra Santos},
+  title        = {Wasp-Moth Mimicry},
+  year         = {2025},
+  publisher    = {Hugging Face},
+  url          = {https://huggingface.co/datasets/Sol-Carolina/Wasp_moth_mimicry}
+}
+```
 
 ## References
 
